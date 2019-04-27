@@ -1,6 +1,6 @@
 ## SSTAP
 
-下载地址：[https://github.com/FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule)
+客户端下载地址：[https://github.com/FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule)
 
 游戏规则定制：[https://github.com/FQrabbit/SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule)
 
